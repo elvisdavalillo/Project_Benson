@@ -1,9 +1,9 @@
 # Project Benson - MTA Turnstile Data
 
 Team 3 Team Members:
-	•	James Evers
-	•	Ozzie Liu
-	•	Andy Sherman-Ash
+	•	Duc Vu
+	•	Elvis Davalillo
+	•	Farhan Syed
 
 ## Contents
 You can find the pdf presentation in this repository, and an in-depth analysis on my blog post on: https://elvisdavalillo.com/2019/07/06/mta-turnstiles/
