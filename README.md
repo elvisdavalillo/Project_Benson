@@ -27,6 +27,6 @@ WTWY International
 
 ## Project Summary:
  - Over 10 millions rows of data were cleaned and analyzed using Pandas and Numpy
- - The stations that were in the sweet spot of high income and a high number of commuters, but that also have high traffic to increase the number of possible donors were found using an scorecard
+ - The stations that had high income, high number of commuters, and high traffic to increase the number of possible donors were found using a balance scorecard
  - The most attractive stations to place the teams, that followed what was mentioned above are those closed to big office buildings such as Fulton Market and 23st
- - An scorecard that balanced
+
