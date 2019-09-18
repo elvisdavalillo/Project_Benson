@@ -1,18 +1,18 @@
-#Project Benson - MTA Turnstile Data
+# Project Benson - MTA Turnstile Data
 
 Team 3 Team Members:
 	•	James Evers
 	•	Ozzie Liu
 	•	Andy Sherman-Ash
 
-##Contents
+## Contents
 You can find the pdf presentation in this repository, and an in-depth analysis on my blog post on: https://elvisdavalillo.com/2019/07/06/mta-turnstiles/
 
-##Project Approach
+## Project Approach
 Our team approached our client's project by looking at 3 particular data points to help us find the best subway stations to place street teams.
 We recognize that our client wants to build awareness and reach of women in technology through a summer gala open to everyone that's interested, but also those that can benefit their fundraising efforts. Of course, we want to target the most popular subway stations, but we also examine city demographic and tech company distributions for the areas that would be interested. Finally, we look at the best time of day to place the street teams.
 
-##Project Proposal:
+## Project Proposal:
 An email from a potential client:
 Mike, Vinny & Julia -
 It was great to meet with you and chat at the event where we recently met and had a nice chat. We’d love to take some next steps to see if working together is something that would make sense for both parties.
@@ -25,7 +25,7 @@ Best,
 Karrine and Dahlia
 WTWY International
 
-##Project Summary:
+## Project Summary:
  - Over 10 millions rows of data were cleaned and analyzed using Pandas and Numpy
  - The stations that were in the sweet spot of high income and a high number of commuters, but that also have high traffic to increase the number of possible donors were found using an scorecard
  - The most attractive stations to place the teams, that followed what was mentioned above are those closed to big office buildings such as Fulton Market and 23st
