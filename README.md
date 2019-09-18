@@ -1,4 +1,4 @@
-Project Benson - MTA Turnstile Data
+#Project Benson - MTA Turnstile Data
 
 Team 3 Team Members:
 
@@ -6,17 +6,18 @@ James Evers
 Ozzie Liu
 Andy Sherman-Ash
 Dan Yawitz
-Contents
+
+##Contents
 
 You can find the pdf presentation in this repository, and an in-depth analysis on my [blog post].
 
-Project Approach
+##Project Approach
 
 Our team approached our client's project by looking at 3 particular data points to help us find the best subway stations to place street teams.
 
 We recognize that our client wants to build awareness and reach of women in technology through a summer gala open to everyone that's interested, but also those that can benefit their fundraising efforts. Of course, we want to target the most popular subway stations, but we also examine city demographic and tech company distributions for the areas that would be interested. Finally, we look at the best time of day to place the street teams.
 
-Project Proposal:
+##Project Proposal:
 
 An email from a potential client:
 
